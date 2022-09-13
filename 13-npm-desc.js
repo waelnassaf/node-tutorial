@@ -6,6 +6,8 @@
 //npm init (or)
 //npm init -y (initialize instantly with defaults)
 
+//RUN (npm install): To install required modules after cloning project.
+
 const _ = require('lodash')
 const items = [1, [2, [3, [13, 100], {name: 'wael'} ,[4]]]]
 const newItems = _.flattenDeep(items)
