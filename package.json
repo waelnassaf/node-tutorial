@@ -7,7 +7,11 @@
     "start": "node app",
     "dev": "nodemon app"
   },
-  "keywords": [],
+  "keywords": [
+    "Node Introduction",
+    "Node Tutorial",
+    "First Node Experience"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
