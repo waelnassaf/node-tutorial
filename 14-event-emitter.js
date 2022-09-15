@@ -4,7 +4,8 @@
 // if you want custom extend from class
 // otherwise just for emitting and handling events create instance
 const EventEmitter = require('events')
-
+console.log(EventEmitter)
+/*
 const customEmitter = new EventEmitter()
 
 customEmitter.on('response', (name, id) => {
@@ -17,3 +18,4 @@ customEmitter.on('response', () => {
 
 customEmitter.emit('response', 'Wael', '26')
 
+*/
