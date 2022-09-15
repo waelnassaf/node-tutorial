@@ -2,7 +2,11 @@
   "name": "node_tutorial",
   "version": "1.0.0",
   "description": "",
-  "main": "1-intro.js",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:waelnassaf/node-tutorial.git"
+  },
   "scripts": {
     "start": "node app",
     "dev": "nodemon app"
