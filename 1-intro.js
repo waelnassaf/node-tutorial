@@ -5,7 +5,7 @@ if (amount < 8)
 else
     console.log('large number')
 
-console.log(`Hey! It's my first node app!!`)
+console.log(`Hey! It's my first (node) app!!`)
 
 
 

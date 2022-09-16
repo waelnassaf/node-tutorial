@@ -1,7 +1,7 @@
 // GLOBALS - NO WINDOW!!
 
 // __dirname    - path to current dir.
-// __filename   - file name.
+// __filename   - path to file name.
 // require      - function to use modules (CommonJS)
 // module       - info about current module (file)
 // process      - info about env in which our program is being executed.
