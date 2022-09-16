@@ -1,7 +1,7 @@
 const http = require('http')
 
 const server = http.createServer((req, res) => {
-  console.log('request event')
+  console.log('request event') //Notice it outputs twice because browser also calls /favicon.ico
   res.end('Hello World')
 })
 
