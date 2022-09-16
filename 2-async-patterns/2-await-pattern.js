@@ -20,7 +20,7 @@ const start = async () => {
 }
 
 start().then(() => {
-  //Do something if start is success...
+  //Do something if start() is success...
   console.log('Success!')
 });
 
