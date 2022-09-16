@@ -2,7 +2,7 @@
 // npm i <packageName> -D: Save as dev dependency
 // [sudo] npm install -g <packageName> : Global dependency (Use it in any project)
 
-//package.json - manifest file (stores important info about project/package)
+//package.json - [manifest file] (stores important info about project/package)
 //Create it manually (or)
 //npm init (or)
 //npm init -y (initialize instantly with defaults)
