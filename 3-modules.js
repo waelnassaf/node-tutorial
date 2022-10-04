@@ -10,4 +10,3 @@ sayHi('Susan')
 sayHi(wael)
 sayHi(patrick)
 console.log(data)
-
